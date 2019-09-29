@@ -61,7 +61,7 @@ We're building a suite of language-specific landing pages for developer to learn
 
 - [Ethereum for Java developers](/java/)
 - [Ethereum for Python developers](/python/)
-- Ethereum for Javascript developers (coming soon)
+- [Ethereum for Javascript developers](/javascript)
 - Others coming soon
 
 ## Developer Tools
