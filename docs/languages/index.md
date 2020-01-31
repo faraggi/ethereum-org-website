@@ -4,7 +4,7 @@ meta:
   - name: description
     content: Resources to all supported languages of Ethereum.org and ways to get involved as a translator.
   - property: og:title
-    content: Ethereum.org Language Translations
+    content: Ethereum.org Language Translations | Ethereum.org
   - property: og:description
     content: Resources to all supported languages of Ethereum.org and ways to get involved as a translator.
 sidebar: false
@@ -17,11 +17,11 @@ lang: en-US
 
   <div class="languages-content-section">
 
-# Language Support
+# Language Support {#language-support}
 
 Ethereum is a global project, and it is critical that Ethereum.org is accessible to everyone, regardless of their nationality or language. Our community has been working hard to make this vision a reality.
 
-Interested in contributing? [Learn more about out Translation Program](#translation-program)
+Interested in contributing? [Learn more about out Translation Program](/languages/#ethereum-org-translation-program)
 
   </div>
 
@@ -29,7 +29,7 @@ Interested in contributing? [Learn more about out Translation Program](#translat
 
   <div class="languages-content-section">
 
-## Translation Program
+## Ethereum.org Translation Program {#ethereum-org-translation-program}
 
 Interested in translating? Get involved! We're seeking volunteers to join 100+ community members who are working to translate the website into 20+ languages. Here's how:
 
@@ -41,9 +41,15 @@ Interested in translating? Get involved! We're seeking volunteers to join 100+ c
 
 4. Once you've completed the translation (i.e. all files display 100%), our professional translation service will review (and potentially edit) the content. Once the review is complete (i.e. review progress is 100%), we will add it to the website.
 
-Do you have any questions? Please join our [Slack workspace](https://join.slack.com/t/ethtranslation/shared_invite/enQtNzkwMjkzNzQ5MDc0LWZjODMwYTAyMzU4YTgzOGY1MDExNGY3MjI4NDEwYTM3OTQ5NDVhYWQ4MzA3NzA2OGE2ZjkyMmEwNmIwOTVmZmE) workspace and comment in the **#\_support** channel. Feel free to collaborate with other contributors by joining language channels.
+Do you have any questions? Please join our [Slack workspace](https://join.slack.com/t/ethtranslation/shared_invite/enQtOTAxMDQzMjEzNzMzLTA0ODMxNzZmN2IzODkwYWQyY2ExMTMxMmIzMDM0ZTBhNDVmZTc4NDhiODYzM2I3OWM3ZTkxNjYzM2JkY2Q0NmY) workspace and comment in the **#\_support** channel. Feel free to collaborate with other contributors by joining language channels.
 
 Thank you for your participation in the [ethereum.org](/) Translation Program! 🦄
+
+## Ethereum Community Translation Program {#ethereum-community-translation-program}
+
+We're also undertaking an initiative to translate Ethereum content beyond ethereum.org! Are you interested in translating valuable Ethereum content from authors across the community? Please follow [this invite link](https://crowdin.com/project/contents-translation/invite) to join this separate project on CrowdIn. From there, follow the same steps outlined above.
+
+If there's Ethereum-related content you'd like to see translated, please [let us know on Twitter](https://twitter.com/ethdotorg)!
 
   </div>
     
